@@ -1,0 +1,68 @@
+SUSONGTV/
+├── README.md
+├── LICENSE
+├── assets/
+│   ├── logo/
+│   ├── music/
+│   └── visuals/
+├── episodes/
+│   ├── ep01_intro/
+│   ├── ep02_interview/
+├── metadata/
+│   ├── music_license.json
+│   ├── visual_sources.md
+│   └── timestamps.csv
+└── docs/
+    ├── branding_guide.pdf
+    └── copyright_defense.md
+## 🛠️ GitHub Repository Configuration Snapshot
+# SUSONGTV 🎥
+
+**Truth from the Roots**  
+A local-to-global media platform based in Susang Durgapur, Netrokona, Bangladesh.
+
+## 📌 Mission
+To elevate community-driven stories with professional polish, emotional depth, and global reach.
+
+## 📁 Repository Structure
+
+## 🎵 Intro Music
+Original composition by MD.MEHEDI HASAN NIRAB  
+Licensed exclusively for SUSONGTV
+
+## 📬 Contact
+📧  susongtv2025@gmail.com  
+🌐 Coming soon: susongtv.com
+
+## 👥 Core Team
+
+| Role                     | Name                    |
+|--------------------------|-------------------------|
+| Chairman                 | ABID HASAN BAPPY        |
+| Editor & Managing Lead   | MD.MEHEDI HASAN NIRAB   |
+| Creative Direction       | MD.MEHEDI HASAN NIRAB   |
+| Technical Oversight      | MD.MEHEDI HASAN NIRAB   |
+
+SUSONGTV is powered by a passionate team rooted in Susang Durgapur,  
+committed to blending emotion, truth, and professionalism in every frame.
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Create repository]
+Copyright (c) 2025 SUSONGTV
+
+All rights reserved.
+
+This repository contains original media, scripts, and compositions created by SUSONGTV.  
+Unauthorized reproduction, redistribution, or reuse of any content is strictly prohibited.  
+For collaboration or licensing inquiries, contact: susongtv2025@gmail.com
